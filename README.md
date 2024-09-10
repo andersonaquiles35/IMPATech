@@ -1,2 +1,2 @@
 # IMPATech
-Projetores gerais do IMPATech
+Projetos gerais do IMPATech
